@@ -1,0 +1,47 @@
+// Fonts 
+
+// Settings
+
+/* .roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}*/
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900
+/* .playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}*/
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+/*.raleway-<uniquifier> {
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+*/
+$font-main: "Raleway", serif;
+$font-accent: "Playfair Display", serif;
+$font-secondary: "Roboto", sans-serif; 
+
+
+// Color
+
+$dark: #242B33;
+$accent: #D4C17F;
+$white: #fff;
+$footer-bg: #2D343C;
+$placeholder:#BEBEBE;
+$muted: #E7E7E7;
+
+
+//Media
+$table: 959px;
+
+
