@@ -1,2 +1,2 @@
 # Verstka_1
-Just 
+Just st
